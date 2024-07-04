@@ -11,13 +11,12 @@ Regional Comparisons: Establish benchmarks and compare key performance indicator
 Trend Analysis: Examine trends and daily sales variations to understand sales distributions and identify growth opportunities.
 
 The dataset includes detailed sales records, capturing information on sales transactions across multiple regions in the US. Key attributes include:
-
-Sales Date
-Region
-Product Category
-Revenue
-Profit
-Number of Orders
+Sales Date,
+Region,
+Product Category,
+Revenue,
+Profit,
+Number of Orders,
 Turnover
 
 Key Insights
